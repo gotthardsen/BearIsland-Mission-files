@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eventgroupdef>
+	<!--<pos x="5158.65" z="4509.54" a="0" y="5.73" group="Policeforest"/>-->
+	<group name="Policeforest">
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="223.29"/>
+		<child type="Land_Wreck_hb01_aban1_police" deloot="0" lootmax="3" lootmin="1" x="6.89941" z="6.56006" y="-0.560974" a="244.44"/>
+	</group>
+</eventgroupdef>

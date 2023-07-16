@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<playerspawnpoints>
+  <fresh>
+    <spawn_params>
+      <min_dist_infected>30.0</min_dist_infected>
+      <max_dist_infected>70.0</max_dist_infected>
+      <min_dist_player>25.0</min_dist_player>
+      <max_dist_player>70.0</max_dist_player>
+      <min_dist_static>0.5</min_dist_static>
+      <max_dist_static>2.0</max_dist_static>
+    </spawn_params>
+    <generator_params>
+      <grid_density>8</grid_density>
+      <grid_width>40.0</grid_width>
+      <grid_height>40.0</grid_height>
+      <min_dist_static>0.5</min_dist_static>
+      <max_dist_static>2.0</max_dist_static>
+      <min_steepness>-45</min_steepness>
+      <max_steepness>45</max_steepness>
+    </generator_params>
+    <generator_posbubbles>
+		<pos x="2660.624" y="3.36" z="538.095" a="0"/>
+		<pos x="2404.03" y="1.08" z="292.44" a="0"/>
+		<pos x="2661.338" y="2.50" z="531.185" a="0"/>
+		<pos x="2610.933" y="4.74" z="353.828" a="0"/>
+		<pos x="2757.711" y="3.10" z="235.335" a="0"/>
+		<pos x="2754.654" y="2.67" z="288.084" a="0"/>
+		<pos x="2681.265" y="16.748" z="388.229" a="0"/>
+		<pos x="2688.909" y="6.46" z="319.417" a="0"/>
+    </generator_posbubbles>
+  </fresh>
+  <hop>
+    <generator_posbubbles>
+		<pos x="2660.624" y="3.36" z="538.095" a="0"/>
+		<pos x="2404.03" y="1.08" z="292.44" a="0"/>
+		<pos x="2661.338" y="2.50" z="531.185" a="0"/>
+		<pos x="2610.933" y="4.74" z="353.828" a="0"/>
+		<pos x="2757.711" y="3.10" z="235.335" a="0"/>
+		<pos x="2754.654" y="2.67" z="288.084" a="0"/>
+		<pos x="2681.265" y="16.748" z="388.229" a="0"/>
+		<pos x="2688.909" y="6.46" z="319.417" a="0"/>
+    </generator_posbubbles>
+  </hop>
+  <travel>
+    <generator_posbubbles>
+		<pos x="2660.624" y="3.36" z="538.095" a="0"/>
+		<pos x="2404.03" y="1.08" z="292.44" a="0"/>
+		<pos x="2661.338" y="2.50" z="531.185" a="0"/>
+		<pos x="2610.933" y="4.74" z="353.828" a="0"/>
+		<pos x="2757.711" y="3.10" z="235.335" a="0"/>
+		<pos x="2754.654" y="2.67" z="288.084" a="0"/>
+		<pos x="2681.265" y="16.748" z="388.229" a="0"/>
+		<pos x="2688.909" y="6.46" z="319.417" a="0"/>
+    </generator_posbubbles>
+  </travel>
+</playerspawnpoints>
