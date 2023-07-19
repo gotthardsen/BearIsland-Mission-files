@@ -3,5 +3,9 @@
     <territory color="2841534046">
         <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="4496.67" z="2026.67" r="100"/>
         <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="3408" z="1374" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="1" dmax="2" x="3392.86" z="2572.86" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="4503.33" z="2978.33" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="4333.33" z="3980" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="4000" z="5335" r="100"/>
     </territory>
 </territory-type>
