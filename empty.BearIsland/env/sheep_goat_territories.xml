@@ -4,5 +4,6 @@
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2385.64" z="1577.64" r="100"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="3" x="2400" z="1580" r="100"/>
         <zone name="Graze" smin="0" smax="0" dmin="1" dmax="3" x="6645" z="3235" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4210" z="6175" r="200"/>
     </territory>
 </territory-type>
