@@ -425,8 +425,8 @@
     <group name="t_PinusSylvestris_1s_summer" pos="2386.375000 2.524275 346.857788" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2398.437500 3.551640 352.752167" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2391.712891 3.313646 362.440125" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="2383.421875 6.426782 835.742859" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2384.421875 6.665565 837.742859" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2383.421875 6.426782 835.742859" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2374.875000 4.927269 815.131775" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2360.875000 4.672491 815.131775" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2366.906250 8.925146 862.220703" a="90.000000" />
@@ -552,11 +552,11 @@
     <group name="t_LarixDecidua_1f_summer" pos="2376.625000 5.812968 1790.941284" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2410.343750 3.588468 279.236603" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2422.062500 3.588468 275.210358" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2428.640625 3.588468 287.626953" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2428.890625 3.588468 307.556976" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2402.171875 3.588468 311.074585" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2412.031250 3.588468 292.808990" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2428.640625 3.588468 287.626953" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2404.812500 3.588468 309.291870" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2428.890625 3.588468 307.556976" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2408.234375 3.588468 298.207367" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2434.218750 3.588468 295.500885" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2400.921875 3.832552 360.573395" a="90.000000" />
@@ -675,14 +675,14 @@
     <group name="t_PinusSylvestris_1s_summer" pos="2458.156250 3.955694 428.499603" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2463.921875 2.079119 552.871643" a="-46.553265" />
     <group name="t_PinusSylvestris_1s_summer" pos="2471.890625 2.454067 557.526978" a="62.027962" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2467.990234 2.180695 583.140259" a="-151.135284" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2477.140625 2.695605 578.751831" a="-157.507507" />
     <group name="t_PinusSylvestris_1s_summer" pos="2466.984375 2.354964 561.667542" a="-58.957153" />
     <group name="t_PinusSylvestris_1s_summer" pos="2474.770020 2.517936 588.580566" a="-26.425709" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2474.046875 2.553960 582.090698" a="141.582321" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2477.140625 2.695605 578.751831" a="-157.507507" />
     <group name="t_PinusSylvestris_1s_summer" pos="2472.828125 2.568231 561.152710" a="-35.940147" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2472.453125 2.522596 571.794556" a="-68.460678" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2467.990234 2.180695 583.140259" a="-151.135284" />
     <group name="t_PinusSylvestris_1s_summer" pos="2477.765625 2.575772 563.748779" a="-16.273993" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2474.046875 2.553960 582.090698" a="141.582321" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2472.453125 2.522596 571.794556" a="-68.460678" />
     <group name="t_LarixDecidua_1s_summer" pos="2479.875000 4.428252 759.424927" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2472.875000 5.309204 780.424927" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2459.875000 4.968581 783.424927" a="90.000000" />
@@ -799,11 +799,11 @@
     <group name="t_PinusSylvestris_1s_summer" pos="2481.578125 2.566433 565.234375" a="52.996906" />
     <group name="t_PinusSylvestris_1s_summer" pos="2486.468750 2.701991 561.211548" a="55.820450" />
     <group name="t_PinusSylvestris_1s_summer" pos="2481.843750 2.769978 574.567139" a="-55.166752" />
-    <group name="PathDCurve" pos="2499.251709 1.340382 746.943848" a="17.291645" />
-    <group name="PathDCurve" pos="2515.722168 1.529414 743.820007" a="-26.539623" />
     <group name="PathDCurve" pos="2508.114990 1.482402 746.921143" a="-1.143281" />
-    <group name="t_LarixDecidua_1s_summer" pos="2503.875000 4.590037 759.424927" a="90.000000" />
+    <group name="PathDCurve" pos="2515.722168 1.529414 743.820007" a="-26.539623" />
+    <group name="PathDCurve" pos="2499.251709 1.340382 746.943848" a="17.291645" />
     <group name="t_LarixDecidua_1s_summer" pos="2516.875000 4.378712 747.424927" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2503.875000 4.590037 759.424927" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2513.875000 5.857021 795.424927" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2481.875000 5.630388 787.424927" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2480.875000 5.362177 778.424927" a="90.000000" />
@@ -943,16 +943,16 @@
     <group name="t_LarixDecidua_1f_summer" pos="2552.796875 5.390860 749.267700" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2539.796875 4.779818 742.267700" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2547.296875 4.730869 723.765320" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2531.765625 4.112897 726.243225" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2555.859375 4.930037 752.333252" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2546.312500 4.260498 739.785645" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2543.796875 4.462238 749.267700" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="2531.765625 4.112897 726.243225" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="2555.796875 4.556121 740.267700" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2556.859375 4.906532 751.333252" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2555.796875 4.556121 740.267700" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2552.625000 6.589471 777.587341" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="2525.875000 5.848794 793.424927" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="2546.875000 6.203668 799.424927" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2524.875000 5.013997 774.424927" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2546.875000 6.203668 799.424927" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2525.875000 5.848794 793.424927" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2552.796875 5.202879 761.267700" a="90.000000" />
     <group name="d_piceaabies_fallene" pos="2522.531250 5.939675 866.497986" a="90.000000" />
     <group name="d_piceaabies_fallene" pos="2531.531250 5.929448 875.497986" a="90.000000" />
@@ -1086,9 +1086,9 @@
     <group name="t_PinusSylvestris_1s_summer" pos="2521.625000 15.325154 2014.941284" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2539.625000 18.784365 2090.941406" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2524.625000 13.783669 2145.941406" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="2556.625000 12.457525 2184.941406" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2537.625000 11.067417 2180.941406" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2545.625000 13.916262 2169.941406" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2556.625000 12.457525 2184.941406" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2541.625000 5.549020 2193.941406" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2537.625000 4.110015 2205.941406" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2572.271973 2.667887 351.209198" a="-164.143494" />
@@ -1460,13 +1460,13 @@
     <group name="t_LarixDecidua_1s_summer" pos="2662.671875 12.135078 786.077942" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2658.671875 11.572065 784.077942" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2660.671875 11.746901 784.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2674.671875 10.226509 764.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2660.671875 11.416715 794.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2657.671875 11.141253 797.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2670.671875 9.948561 768.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2660.671875 11.416715 794.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2650.671875 8.362890 761.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2674.671875 12.066998 782.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2670.671875 9.948561 768.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2659.671875 9.089382 767.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2674.671875 12.066998 782.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2674.671875 10.226509 764.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2647.671875 11.276847 814.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2662.671875 13.883123 815.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2645.531250 10.254087 837.497986" a="90.000000" />
@@ -1620,8 +1620,8 @@
     <group name="t_PinusSylvestris_1s_summer" pos="2679.609375 2.751313 2353.791504" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2655.625000 4.889463 2337.605225" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2664.937500 4.529572 2338.320068" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2673.484375 2.581207 2350.499756" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2652.312500 5.654907 2334.686523" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2673.484375 2.581207 2350.499756" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2679.313477 5.543787 3250.537842" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2660.313477 4.314509 3246.537842" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2669.313477 4.872642 3298.537842" a="90.000000" />
@@ -1684,12 +1684,12 @@
     <group name="t_PinusSylvestris_1s_summer" pos="2696.671875 11.027559 733.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2709.671875 13.959099 757.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2707.671875 13.566779 750.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2692.671875 10.394600 730.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2702.671875 11.522832 730.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2687.671875 11.154860 751.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2682.671875 8.566727 728.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2688.671875 9.168661 721.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2698.671875 11.055924 723.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2687.671875 11.154860 751.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2702.671875 11.522832 730.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2692.671875 10.394600 730.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2719.671875 16.877596 766.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2687.671875 14.220474 761.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2717.671875 15.314819 785.077942" a="90.000000" />
@@ -1707,11 +1707,11 @@
     <group name="t_PinusSylvestris_1s_summer" pos="2685.671875 13.248801 789.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2697.671875 13.102996 793.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2713.671875 13.242975 778.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2717.671875 13.134921 778.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2697.671875 12.803561 760.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2691.671875 12.319300 761.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2717.671875 13.134921 778.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2692.671875 13.617228 784.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2700.609375 14.165246 779.009033" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2692.671875 13.617228 784.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2706.609375 14.913382 802.009033" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2704.609375 14.221985 802.009033" a="90.000000" />
     <group name="d_piceaabies_stumpd" pos="2702.031250 12.361770 830.610474" a="90.000000" />
@@ -1888,34 +1888,34 @@
     <group name="t_LarixDecidua_1s_summer" pos="2755.625000 18.008310 754.033081" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2737.671875 16.893164 720.077942" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2721.671875 16.062284 754.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2732.906250 14.543989 750.313660" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2732.906250 14.564046 749.313660" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2746.625000 17.063984 731.033081" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2731.671875 14.967283 731.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2749.671875 17.970722 740.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2732.906250 14.564046 749.313660" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2732.906250 14.543989 750.313660" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2758.625000 17.742168 722.033081" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2722.671875 15.335623 791.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2755.671875 14.017595 796.077942" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="2727.671875 15.559450 784.077942" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="2748.671875 16.484989 774.077942" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="2745.671875 15.507982 784.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2735.671875 16.915432 761.077942" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="2727.671875 15.559450 784.077942" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="2751.671875 15.274796 782.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2756.671875 14.515043 788.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2729.625000 16.099785 775.033081" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="2745.671875 15.507982 784.077942" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="2748.671875 16.484989 774.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2754.671875 16.513365 774.077942" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="2751.671875 15.274796 782.077942" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="2724.671875 16.086311 767.077942" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="2759.671875 17.122952 764.077942" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2748.671875 15.454370 777.077942" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2755.671875 13.580423 792.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2726.671875 13.094275 788.077942" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2724.671875 16.086311 767.077942" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2759.671875 17.122952 764.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2735.671875 12.478702 797.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2740.671875 14.491672 770.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2750.671875 13.894341 775.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2734.671875 13.150374 785.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2747.671875 15.170079 768.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2724.671875 13.112768 782.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2740.671875 14.491672 770.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2722.671875 12.971699 797.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2726.671875 13.094275 788.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2747.671875 15.170079 768.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2729.671875 15.135935 801.077942" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2758.671875 13.826557 800.077942" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2720.906250 14.912851 803.313660" a="90.000000" />
@@ -2048,17 +2048,17 @@
     <group name="t_LarixDecidua_1f_summer" pos="2751.875000 8.242868 2350.172852" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2724.218750 8.416731 2326.795166" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2729.218750 7.523020 2340.795166" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2728.781250 3.637995 2364.204590" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2722.687500 3.309717 2363.223877" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2751.812500 4.768591 2364.797607" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2735.484375 4.490947 2362.357422" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2744.281250 4.832512 2364.481689" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2728.781250 3.637995 2364.204590" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2751.968750 5.057843 2574.243896" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="2730.609375 5.197901 2619.770508" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2751.368896 4.825771 2634.613037" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="2730.609375 5.197901 2619.770508" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2748.031250 2.441975 2633.292236" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2732.609375 2.288995 2631.770508" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2739.609375 1.538167 2637.770508" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2732.609375 2.288995 2631.770508" a="90.000000" />
     <group name="PathRCurve" pos="2733.321533 0.520155 3315.450195" a="-121.292542" />
     <group name="PathR30" pos="2755.110596 0.742091 3337.465576" a="38.433796" />
     <group name="PathRCurve" pos="2740.001709 0.800509 3323.548096" a="64.216904" />
@@ -2133,8 +2133,8 @@
     <group name="t_PinusSylvestris_1s_summer" pos="2790.671875 11.640444 764.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2782.671875 12.133848 766.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2767.671875 14.713412 762.077942" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2762.671875 14.804274 766.077942" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2797.671875 11.153685 770.077942" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2762.671875 14.804274 766.077942" a="90.000000" />
     <group name="d_piceaabies_fallend" pos="2774.031250 10.045694 822.610474" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2793.031250 12.368620 822.610474" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2760.671875 13.149612 801.077942" a="90.000000" />
@@ -2451,10 +2451,10 @@
     <group name="t_PinusSylvestris_1s_summer" pos="2803.343750 1.264296 2384.458496" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2820.312500 1.921285 2396.449951" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2832.234375 2.471873 2421.624512" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2818.125000 1.821935 2404.761230" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2838.828125 2.784531 2430.681641" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2823.312500 1.891516 2413.565430" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2822.093750 1.911341 2408.983398" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2818.125000 1.821935 2404.761230" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2830.203125 2.532372 2430.484131" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2826.234375 2.036350 2405.950684" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2813.406250 5.004777 2491.868896" a="90.000000" />
@@ -2681,10 +2681,10 @@
     <group name="t_FagusSylvatica_1f_summer" pos="2847.609375 11.443605 4036.889404" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="2876.278564 11.379715 4056.682617" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="2859.609375 10.690953 4055.889404" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="2914.765625 5.258540 711.336426" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2917.852295 5.406719 706.532166" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="2894.297607 4.829619 714.239075" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="2914.765625 5.258540 711.336426" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2919.737793 4.534120 713.891418" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="2894.297607 4.829619 714.239075" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2913.765625 2.933848 711.336426" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="2911.144043 4.282852 741.300232" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2910.144043 1.930312 741.300232" a="90.000000" />
@@ -2872,8 +2872,8 @@
     <group name="t_LarixDecidua_1s_summer" pos="2938.737793 3.064819 729.891418" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2921.451172 3.456593 744.822388" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="2920.737793 3.715749 733.891418" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="2934.737793 1.294482 733.891418" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2927.972168 2.141489 729.127136" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="2934.737793 1.294482 733.891418" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="2925.805176 6.457585 898.550537" a="125.451706" />
     <group name="t_LarixDecidua_1f_summer" pos="2947.387939 14.241869 1036.638916" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="2949.290527 21.600979 1063.832153" a="90.000000" />
@@ -3217,9 +3217,9 @@
     <group name="t_LarixDecidua_1s_summer" pos="3017.125000 13.666409 1107.756348" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3034.125000 16.689182 1100.756348" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="3026.593750 21.661488 1134.222290" a="90.000000" />
+    <group name="d_piceaabies_fallene" pos="3037.125000 13.186482 1120.756348" a="90.000000" />
     <group name="d_piceaabies_fallene" pos="3033.125000 11.675454 1143.756348" a="90.000000" />
     <group name="d_piceaabies_fallene" pos="3028.125000 11.517871 1153.756348" a="90.000000" />
-    <group name="d_piceaabies_fallene" pos="3037.125000 13.186482 1120.756348" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3029.125000 14.294596 1158.756348" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3031.125000 13.667074 1152.756348" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="3032.125000 22.117329 1199.756348" a="90.000000" />
@@ -3891,8 +3891,8 @@
     <group name="t_LarixDecidua_1s_summer" pos="3114.625000 21.617439 2098.941406" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3080.625000 23.770157 2100.941406" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3081.625000 20.590355 2133.941406" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="3096.437500 7.913227 2358.607422" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3097.694336 7.795660 2354.737305" a="111.657799" />
+    <group name="t_PinusSylvestris_1s_summer" pos="3096.437500 7.913227 2358.607422" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3080.140625 7.607130 2374.058350" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3085.390625 7.607379 2367.742432" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3090.110596 7.751446 2363.869141" a="111.657799" />
@@ -5937,9 +5937,9 @@
     <group name="t_PinusSylvestris_1s_summer" pos="3338.281250 15.701100 2002.879639" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3356.156250 16.846092 2025.760010" a="90.000000" />
     <group name="d_piceaabies_stumpd" pos="3347.156250 15.321674 2050.760010" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="3338.792236 16.010469 2079.185059" a="-7.975799" />
     <group name="t_PinusSylvestris_1s_summer" pos="3335.868408 15.939812 2077.717285" a="-7.975799" />
     <group name="t_PinusSylvestris_1s_summer" pos="3330.614746 15.609213 2077.301270" a="13.682014" />
-    <group name="t_PinusSylvestris_1s_summer" pos="3338.792236 16.010469 2079.185059" a="-7.975799" />
     <group name="t_PinusSylvestris_1s_summer" pos="3348.953125 16.315313 2091.494141" a="13.682014" />
     <group name="t_PinusSylvestris_1s_summer" pos="3335.104492 15.953238 2081.438721" a="-7.975799" />
     <group name="t_PinusSylvestris_1s_summer" pos="3339.737549 16.075031 2084.006348" a="13.682014" />
@@ -6057,9 +6057,9 @@
     <group name="d_piceaabies_fallene" pos="3373.480225 4.976548 987.797058" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="3391.001953 15.892299 1003.090576" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="3371.093750 15.662456 1001.719360" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="3398.156250 8.011477 1013.782593" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3376.125000 8.599213 1018.756409" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3382.125000 8.747898 1023.756409" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="3398.156250 8.011477 1013.782593" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="3362.453125 19.843288 1054.080200" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="3381.125000 18.617048 1040.756348" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="3399.125000 17.940989 1040.756348" a="90.000000" />
@@ -8449,9 +8449,9 @@
     <group name="t_PinusSylvestris_1s_summer" pos="3579.234375 13.118623 4209.082031" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="3586.584961 15.151482 4305.706055" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3598.584961 12.116434 4298.706055" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="3574.584961 5.462536 4330.706055" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3596.584961 6.168865 4338.706055" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3581.584961 5.423936 4340.706055" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="3574.584961 5.462536 4330.706055" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3570.613525 5.561868 4503.640625" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3564.921875 6.468163 4526.533691" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3568.254883 9.135345 4591.844727" a="90.000000" />
@@ -8646,15 +8646,15 @@
     <group name="d_piceaabies_fallene" pos="3624.343750 28.723650 1738.543579" a="90.000000" />
     <group name="d_piceaabies_stumpd" pos="3629.343750 27.627407 1725.543579" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3614.343750 29.529789 1746.543579" a="90.000000" />
-    <group name="t_PinusSylvestris_3fc_summer" pos="3623.343750 39.369106 1764.543579" a="90.000000" />
+    <group name="t_PinusSylvestris_3fc_summer" pos="3602.343750 40.021599 1781.543579" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="3633.718750 39.894447 1774.916992" a="90.000000" />
-    <group name="t_PinusSylvestris_3fc_summer" pos="3638.343750 40.701057 1790.543579" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="3609.343750 40.049103 1783.543579" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="3608.343750 39.744171 1779.543579" a="90.000000" />
-    <group name="t_PinusSylvestris_3fc_summer" pos="3602.343750 40.021599 1781.543579" a="90.000000" />
+    <group name="t_PinusSylvestris_3fc_summer" pos="3638.343750 40.701057 1790.543579" a="90.000000" />
+    <group name="t_PinusSylvestris_3fc_summer" pos="3623.343750 39.369106 1764.543579" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="3628.343750 32.933140 1798.543579" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3602.953125 32.346653 1791.149170" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3625.718750 31.774738 1772.916992" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="3628.343750 32.933140 1798.543579" a="90.000000" />
     <group name="d_piceaabies_stumpd" pos="3601.093750 29.130520 1761.290527" a="90.000000" />
     <group name="d_piceaabies_stumpd" pos="3628.093750 29.071846 1761.290527" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3602.093750 29.934635 1765.290527" a="90.000000" />
@@ -9006,8 +9006,8 @@
     <group name="t_PinusSylvestris_3fc_summer" pos="3668.593750 37.189144 1689.792480" a="90.000000" />
     <group name="d_piceaabies_fallene" pos="3664.437500 27.971157 1706.641846" a="90.000000" />
     <group name="d_piceaabies_fallene" pos="3657.437500 28.023520 1709.641846" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="3670.343750 28.733791 1711.543579" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3667.437500 28.379333 1703.641846" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="3670.343750 28.733791 1711.543579" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="3652.484375 38.831886 1729.678467" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="3670.031250 39.079739 1737.226929" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="3641.437500 39.669090 1752.641846" a="90.000000" />
@@ -9821,8 +9821,8 @@
     <group name="t_LarixDecidua_1f_summer" pos="3748.234375 17.846764 3815.082031" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3759.234375 17.551752 3865.082031" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3720.234375 17.786060 3878.082031" a="90.000000" />
-    <group name="t_FagusSylvatica_1f_summer" pos="3758.234375 21.097343 3885.082031" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="3739.359375 20.987741 3894.212402" a="90.000000" />
+    <group name="t_FagusSylvatica_1f_summer" pos="3758.234375 21.097343 3885.082031" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="3748.234375 21.383629 3928.082031" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3736.234375 16.777063 3921.082031" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="3744.234375 26.819971 3996.082031" a="90.000000" />
@@ -10182,14 +10182,14 @@
     <group name="t_LarixDecidua_1s_summer" pos="3762.234375 18.216221 3777.082031" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3771.234375 15.702785 3798.082031" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3785.234375 16.608728 3810.082031" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="3796.234375 15.799192 3804.082031" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3796.234375 15.763129 3809.082031" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="3796.234375 15.799192 3804.082031" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3776.234375 17.632778 3871.082031" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3771.234375 17.609571 3877.082031" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="3766.234375 16.980539 3866.082031" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="3760.234375 16.941195 3870.082031" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="3769.234375 17.024178 3867.082031" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3774.234375 16.931736 3879.082031" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="3766.234375 16.980539 3866.082031" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="3769.234375 17.024178 3867.082031" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="3760.234375 16.941195 3870.082031" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3789.234375 17.361937 3904.082031" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3799.234375 17.364893 3910.082031" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3767.234375 19.567896 3948.082031" a="90.000000" />
@@ -10847,8 +10847,8 @@
     <group name="t_PinusSylvestris_1s_summer" pos="3874.968750 10.304306 5182.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3856.968750 7.669722 5161.407715" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="3853.968750 16.038898 5235.407715" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="3853.968750 8.597013 5232.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3847.968750 8.447316 5227.407715" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="3853.968750 8.597013 5232.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3861.968750 9.488771 5268.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3876.968750 14.111439 5258.407715" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="3849.968750 18.465424 5356.407715" a="90.000000" />
@@ -11044,8 +11044,8 @@
     <group name="t_LarixDecidua_1f_summer" pos="3885.234375 15.122494 3252.082031" a="90.000000" />
     <group name="PathD30" pos="3904.043213 14.089404 3676.545410" a="-130.562271" />
     <group name="PathD30" pos="3885.593506 15.314281 3656.214355" a="-133.427307" />
-    <group name="PathD30" pos="3885.593506 15.314281 3656.214355" a="-133.427307" />
     <group name="PathD30" pos="3904.043213 14.089404 3676.545410" a="-130.562271" />
+    <group name="PathD30" pos="3885.593506 15.314281 3656.214355" a="-133.427307" />
     <group name="t_LarixDecidua_1s_summer" pos="3907.234375 18.873383 3705.082031" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="3892.234375 19.997351 3719.082031" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3900.234375 18.405457 3720.082031" a="90.000000" />
@@ -11349,8 +11349,8 @@
     <group name="t_LarixDecidua_1s_summer" pos="3934.968750 11.840771 6103.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3926.968750 9.607215 6116.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3944.968750 12.138794 6125.407715" a="90.000000" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="3940.968750 19.788269 6168.407715" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="3933.968750 21.927460 6182.407715" a="90.000000" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="3940.968750 19.788269 6168.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="3953.968750 12.262552 6163.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="3953.968750 11.771792 6227.407715" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="3949.968750 18.953285 6241.407715" a="90.000000" />
@@ -12052,8 +12052,8 @@
     <group name="t_LarixDecidua_1s_summer" pos="4048.968750 20.749710 5894.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4074.968750 17.353952 5901.407715" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="4046.968750 29.026352 5950.407715" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="4048.968750 21.006672 5936.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4045.968750 21.313953 5940.407715" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="4048.968750 21.006672 5936.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4062.968750 18.539467 5977.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="4064.968750 20.925982 6029.407715" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="4056.968750 26.927855 6068.407715" a="90.000000" />
@@ -12066,12 +12066,12 @@
     <group name="t_LarixDecidua_1f_summer" pos="4069.968750 18.108799 6174.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="4042.968750 15.784634 6187.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="4071.968750 14.855986 6187.407715" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="4073.968750 18.506632 6165.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4068.968750 17.881382 6172.407715" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="4073.968750 18.506632 6165.407715" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="4056.968750 16.554445 6225.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="4077.968750 8.753960 6224.407715" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="4062.968750 8.188141 6238.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4042.968750 8.996176 6224.407715" a="90.000000" />
+    <group name="t_LarixDecidua_1s_summer" pos="4062.968750 8.188141 6238.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="4058.968750 6.593451 6234.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4053.968750 9.714407 6270.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4055.968750 8.996944 6250.407715" a="90.000000" />
@@ -13094,8 +13094,8 @@
     <group name="t_PinusSylvestris_1s_summer" pos="4275.640625 16.649769 3550.128662" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="4240.796875 30.172194 3869.334229" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="4258.875000 14.226684 4173.050781" a="90.000000" />
-    <group name="t_PinusSylvestris_2fb_summer" pos="4247.968750 27.359217 5128.407715" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="4245.968750 27.753691 5159.407715" a="90.000000" />
+    <group name="t_PinusSylvestris_2fb_summer" pos="4247.968750 27.359217 5128.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="4242.968750 20.532570 5144.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4264.968750 17.290863 5134.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4257.968750 18.074892 5123.407715" a="90.000000" />
@@ -13302,8 +13302,8 @@
     <group name="t_LarixDecidua_1s_summer" pos="4306.968750 19.163803 5874.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4308.968750 17.474434 5844.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="4314.968750 16.582363 5865.407715" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="4285.968750 18.257889 5936.407715" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="4297.968750 19.717175 5929.407715" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="4285.968750 18.257889 5936.407715" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4286.968750 17.876036 5931.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="4314.968750 17.054829 5947.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="4312.968750 17.568348 5941.407715" a="90.000000" />
@@ -13529,8 +13529,8 @@
     <group name="t_LarixDecidua_1f_summer" pos="4359.968750 6.149284 6790.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="4332.968750 3.239477 6791.407715" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="4394.093750 11.011901 777.826538" a="90.000000" />
-    <group name="t_FagusSylvatica_1f_summer" pos="4369.093750 14.457201 822.826538" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="4366.093750 14.062493 813.826538" a="90.000000" />
+    <group name="t_FagusSylvatica_1f_summer" pos="4369.093750 14.457201 822.826538" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="4376.093750 17.569637 863.826538" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="4381.093750 17.072882 845.826538" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="4393.093750 18.359097 877.826538" a="90.000000" />
@@ -14025,8 +14025,8 @@
     <group name="t_PinusSylvestris_1s_summer" pos="4477.140625 21.889519 1966.748169" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="4464.640625 32.065094 2039.251709" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="4453.140625 31.553579 2031.748169" a="90.000000" />
-    <group name="t_FagusSylvatica_1f_summer" pos="4452.140625 28.043629 2006.748169" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="4462.640625 28.033821 2036.251709" a="90.000000" />
+    <group name="t_FagusSylvatica_1f_summer" pos="4452.140625 28.043629 2006.748169" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="4460.140625 24.038927 2016.748169" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4464.640625 23.786871 2035.251709" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="4459.140625 23.385344 2023.748169" a="90.000000" />
@@ -14603,8 +14603,8 @@
     <group name="t_PinusSylvestris_2fb_summer" pos="4545.968750 18.735344 6657.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="4544.968750 8.481289 6673.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="4541.968750 9.766920 6708.407715" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="4547.968750 9.014736 6696.407715" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="4558.968750 7.592730 6695.407715" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="4547.968750 9.014736 6696.407715" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="4549.968750 15.471525 6740.407715" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="4563.093750 10.290440 867.826538" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="4572.093750 12.487850 917.826538" a="90.000000" />
@@ -15719,8 +15719,8 @@
     <group name="t_PinusSylvestris_1s_summer" pos="4728.968750 3.682377 6507.407715" a="90.000000" />
     <group name="PathD30" pos="4745.616211 5.316956 6527.089844" a="75.208305" />
     <group name="PathD30" pos="4745.616211 5.316956 6527.089844" a="75.208305" />
-    <group name="PathDCurve" pos="4745.262695 0.225021 6552.669434" a="-48.584179" />
     <group name="PathDCurve" pos="4748.271973 1.911508 6544.751953" a="-72.949242" />
+    <group name="PathDCurve" pos="4745.262695 0.225021 6552.669434" a="-48.584179" />
     <group name="PathDCurve" pos="4745.262695 0.225021 6552.669434" a="-48.584179" />
     <group name="PathDCurve" pos="4748.271973 1.911508 6544.751953" a="-72.949242" />
     <group name="t_LarixDecidua_1f_summer" pos="4736.968750 7.142809 6747.407715" a="90.000000" />
@@ -18076,10 +18076,10 @@
     <group name="t_PinusSylvestris_1s_summer" pos="5678.890625 8.524275 3159.601807" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="5653.234375 5.171516 3134.770264" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="5649.096680 14.854801 3187.028076" a="-27.442028" />
-    <group name="t_LarixDecidua_1s_summer" pos="5644.992676 10.654792 3178.895996" a="-27.442028" />
     <group name="t_LarixDecidua_1s_summer" pos="5674.875977 12.249249 3185.145996" a="117.974670" />
-    <group name="t_PinusSylvestris_1s_summer" pos="5653.603516 8.993229 3189.195557" a="-27.442028" />
+    <group name="t_LarixDecidua_1s_summer" pos="5644.992676 10.654792 3178.895996" a="-27.442028" />
     <group name="t_PinusSylvestris_1s_summer" pos="5647.195313 8.927250 3176.626465" a="-27.442028" />
+    <group name="t_PinusSylvestris_1s_summer" pos="5653.603516 8.993229 3189.195557" a="-27.442028" />
     <group name="PathD30" pos="5667.360352 13.478683 3511.188721" a="135.893906" />
     <group name="PathD30" pos="5667.360352 13.478683 3511.188721" a="135.893906" />
     <group name="PathD30" pos="5647.270996 15.596760 3530.786133" a="136.100494" />
@@ -18136,8 +18136,8 @@
     <group name="t_FagusSylvatica_1f_summer" pos="5689.976074 14.676947 2709.140625" a="113.978264" />
     <group name="t_PinusSylvestris_1s_summer" pos="5719.007813 8.483847 2681.952881" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="5684.273926 11.306171 2751.688721" a="90.000000" />
-    <group name="t_LarixDecidua_1s_summer" pos="5696.940918 10.554316 2750.510986" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="5718.679199 10.926507 2752.927979" a="113.978264" />
+    <group name="t_LarixDecidua_1s_summer" pos="5696.940918 10.554316 2750.510986" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="5680.194824 21.043827 2795.984131" a="113.978264" />
     <group name="t_LarixDecidua_1f_summer" pos="5689.175781 15.490217 2768.126221" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="5684.378906 16.186951 2781.329834" a="90.000000" />
@@ -18517,9 +18517,9 @@
     <group name="t_LarixDecidua_1s_summer" pos="5864.552734 7.812906 4396.016113" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="5879.066406 14.885414 4424.193848" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="5880.388184 6.476776 2829.291504" a="113.978264" />
-    <group name="t_FagusSylvatica_1f_summer" pos="5904.647949 14.384396 2851.025879" a="113.978264" />
     <group name="t_FagusSylvatica_1f_summer" pos="5890.173340 16.677841 2874.852539" a="113.978264" />
     <group name="t_FagusSylvatica_1f_summer" pos="5890.798340 12.899714 2840.604492" a="113.978264" />
+    <group name="t_FagusSylvatica_1f_summer" pos="5904.647949 14.384396 2851.025879" a="113.978264" />
     <group name="t_PinusSylvestris_1s_summer" pos="5886.968750 10.870214 2874.406494" a="113.978264" />
     <group name="t_PinusSylvestris_1s_summer" pos="5887.593750 6.800100 2840.158447" a="113.978264" />
     <group name="t_FagusSylvatica_1f_summer" pos="5904.022949 15.748638 2885.273926" a="113.978264" />
@@ -18684,8 +18684,8 @@
     <group name="t_LarixDecidua_1f_summer" pos="5989.609375 8.177832 2887.698486" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="5996.500000 6.680858 2882.592773" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="5998.500000 5.430374 2902.592773" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="5991.250000 5.042950 2943.361572" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="5964.443848 7.061656 2937.349365" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="5991.250000 5.042950 2943.361572" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="5978.984375 3.688377 2962.399658" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="5964.485840 11.020256 3087.101563" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="5985.688965 11.058997 3095.305176" a="90.000000" />
@@ -18839,10 +18839,10 @@
     <group name="t_PinusSylvestris_3fc_summer" pos="6029.359375 21.011040 4451.981934" a="90.000000" />
     <group name="t_PinusSylvestris_2fb_summer" pos="6015.359375 19.948954 4453.981934" a="90.000000" />
     <group name="t_FagusSylvatica_1f_summer" pos="6041.632324 8.926756 2909.737061" a="113.978264" />
-    <group name="t_PinusSylvestris_1s_summer" pos="6051.556641 2.579563 2944.708984" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="6056.093750 2.498063 2937.900391" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="6044.612305 2.597799 2943.778320" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="6045.171875 3.111578 2922.520752" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="6051.556641 2.579563 2944.708984" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="6044.612305 2.597799 2943.778320" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6057.777832 6.450777 2985.558838" a="32.503685" />
     <group name="t_PinusSylvestris_1s_summer" pos="6042.126953 3.949008 2993.373535" a="32.503685" />
     <group name="t_LarixDecidua_1f_summer" pos="6065.500977 9.587004 3016.437256" a="32.503685" />
@@ -18860,8 +18860,8 @@
     <group name="t_PinusSylvestris_1s_summer" pos="6057.269531 10.543940 3046.402344" a="107.145699" />
     <group name="t_LarixDecidua_1f_summer" pos="6046.542480 15.181126 3111.615967" a="177.920364" />
     <group name="t_PinusSylvestris_1s_summer" pos="6065.318848 9.378231 3094.931641" a="107.145699" />
-    <group name="t_PinusSylvestris_1s_summer" pos="6047.743652 10.192744 3122.782227" a="177.920364" />
     <group name="t_PinusSylvestris_1s_summer" pos="6058.140625 6.826520 3145.002441" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="6047.743652 10.192744 3122.782227" a="177.920364" />
     <group name="t_PinusSylvestris_1s_summer" pos="6071.921875 6.777035 3127.467285" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6073.651855 8.856539 3169.731201" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6067.187500 8.066744 3188.891846" a="90.000000" />
@@ -19057,10 +19057,10 @@
     <group name="t_LarixDecidua_1f_summer" pos="6244.093750 13.691191 2908.287842" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="6279.484375 11.577971 2881.810059" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="6265.296875 13.249470 2916.491455" a="90.000000" />
+    <group name="t_PinusSylvestris_1s_summer" pos="6255.296875 11.176505 2907.491455" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="6245.296875 10.483874 2919.491455" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="6273.140625 11.038947 2896.467041" a="90.000000" />
     <group name="t_PinusSylvestris_1s_summer" pos="6252.359375 11.100528 2902.483154" a="90.000000" />
-    <group name="t_PinusSylvestris_1s_summer" pos="6255.296875 11.176505 2907.491455" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6258.406250 13.972158 2948.597168" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="6265.296875 14.478167 2943.491455" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="6273.640625 13.507620 2948.834473" a="90.000000" />
@@ -19174,8 +19174,8 @@
     <group name="t_FagusSylvatica_1f_summer" pos="6365.774902 12.491245 3010.984375" a="113.978264" />
     <group name="t_PinusSylvestris_1s_summer" pos="6373.796875 4.890429 3010.176270" a="113.978264" />
     <group name="t_FagusSylvatica_1f_summer" pos="6392.674316 11.441468 3091.712158" a="113.978264" />
-    <group name="t_LarixDecidua_1f_summer" pos="6393.490723 6.577251 3080.037109" a="113.978264" />
     <group name="t_LarixDecidua_1f_summer" pos="6382.468750 8.519541 3098.640381" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="6393.490723 6.577251 3080.037109" a="113.978264" />
     <group name="t_LarixDecidua_1s_summer" pos="6378.849609 6.429662 3080.469238" a="113.978264" />
     <group name="t_LarixDecidua_1s_summer" pos="6367.671875 7.979469 3107.843994" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="6377.671875 8.095716 3111.843994" a="90.000000" />
@@ -19203,8 +19203,8 @@
     <group name="t_LarixDecidua_1f_summer" pos="6399.531250 11.444521 4515.714355" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="6390.700684 10.778207 4507.090332" a="90.000000" />
     <group name="t_PinusSylvestris_3fc_summer" pos="6365.531250 19.166782 4533.714355" a="90.000000" />
-    <group name="t_FagusSylvatica_1f_summer" pos="6427.540527 9.978527 2879.495605" a="113.978264" />
     <group name="t_FagusSylvatica_1f_summer" pos="6438.767090 9.305650 2879.133545" a="113.978264" />
+    <group name="t_FagusSylvatica_1f_summer" pos="6427.540527 9.978527 2879.495605" a="113.978264" />
     <group name="t_LarixDecidua_1f_summer" pos="6428.356934 6.057556 2867.820557" a="113.978264" />
     <group name="t_LarixDecidua_1f_summer" pos="6406.435547 4.470287 2858.218262" a="90.000000" />
     <group name="t_LarixDecidua_1s_summer" pos="6414.647949 5.307632 2871.573242" a="113.978264" />
@@ -19348,11 +19348,11 @@
     <group name="t_PinusSylvestris_2fb_summer" pos="6534.417480 17.043983 4640.197754" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6584.079102 5.027198 3088.269043" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6586.662598 4.448163 3107.254395" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="6576.921875 5.892441 3198.817139" a="90.000000" />
-    <group name="t_LarixDecidua_1f_summer" pos="6562.312500 4.441529 3189.085205" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6571.843750 4.805107 3189.510742" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="6562.312500 4.441529 3189.085205" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6569.312500 5.357935 3177.384521" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6571.781250 4.735228 3195.253418" a="90.000000" />
+    <group name="t_LarixDecidua_1f_summer" pos="6576.921875 5.892441 3198.817139" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6568.046875 4.740784 3181.180664" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6587.890625 5.674016 3216.902832" a="90.000000" />
     <group name="t_LarixDecidua_1f_summer" pos="6599.000000 4.870846 3224.203613" a="90.000000" />
@@ -19439,8 +19439,8 @@
     <group name="PathDCurve" pos="6630.768066 2.577510 4676.417480" a="5.302519" />
     <group name="PathDCurve" pos="6630.768066 2.577510 4676.417480" a="5.302519" />
     <group name="PathDCurve" pos="6622.883301 3.621616 4674.192871" a="41.012108" />
-    <group name="PathDCurve" pos="6617.803711 4.027725 4666.687012" a="90.000000" />
     <group name="PathDCurve" pos="6622.883301 3.621616 4674.192871" a="41.012108" />
+    <group name="PathDCurve" pos="6617.803711 4.027725 4666.687012" a="90.000000" />
     <group name="PathDCurve" pos="6617.803711 4.027725 4666.687012" a="90.000000" />
     <group name="PathD10" pos="6616.703613 4.509549 4658.125000" a="96.187836" />
     <group name="PathD10" pos="6616.703613 4.509549 4658.125000" a="96.187836" />
@@ -19497,9 +19497,9 @@
     <group name="PathDCurve" pos="6679.144043 2.917001 4616.333984" a="38.047054" />
     <group name="PathDCurve" pos="6673.599609 3.101168 4600.368652" a="-85.393036" />
     <group name="PathD30" pos="6647.950195 2.184821 4670.506836" a="155.746872" />
+    <group name="PathD30" pos="6671.731934 2.271589 4645.211914" a="101.731323" />
+    <group name="PathD30" pos="6671.731934 2.271589 4645.211914" a="101.731323" />
     <group name="PathD30" pos="6647.950195 2.184821 4670.506836" a="155.746872" />
-    <group name="PathD30" pos="6671.731934 2.271589 4645.211914" a="101.731323" />
-    <group name="PathD30" pos="6671.731934 2.271589 4645.211914" a="101.731323" />
     <group name="PathDCurve" pos="6664.999023 2.346346 4661.733887" a="-27.570940" />
     <group name="PathDCurve" pos="6664.999023 2.346346 4661.733887" a="-27.570940" />
     <group name="t_LarixDecidua_1s_summer" pos="6680.624512 6.638325 3154.678223" a="90.000000" />
