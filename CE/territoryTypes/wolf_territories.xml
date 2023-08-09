@@ -4,5 +4,9 @@
         <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="4" x="3732.14" z="3810.71" r="100"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="3" x="5845" z="3650" r="100"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="3" x="6180" z="5340" r="100"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="4" x="1530" z="3155" r="100"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="4" x="7180" z="7210" r="300"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="4" x="2470" z="9510" r="500"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="4" x="815" z="5420" r="100"/>
     </territory>
 </territory-type>

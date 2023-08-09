@@ -39,5 +39,6 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4863.33" z="5726.67" r="50"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4490" z="5896.67" r="50"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3790" z="5810" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1823.33" z="3742.22" r="150"/>
     </territory>
 </territory-type>

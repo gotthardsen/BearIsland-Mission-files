@@ -4,5 +4,8 @@
         <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="2793.33" z="1213.33" r="200"/>
         <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="4631.67" z="1375" r="200"/>
         <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="4470" z="8010" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="2090" z="7450" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="580" z="8530" r="300"/>
+        <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="8750" z="6640" r="250"/>
     </territory>
 </territory-type>

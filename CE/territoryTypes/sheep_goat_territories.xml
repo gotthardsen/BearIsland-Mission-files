@@ -5,5 +5,8 @@
         <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="3" x="2400" z="1580" r="100"/>
         <zone name="Graze" smin="0" smax="0" dmin="1" dmax="3" x="6645" z="3235" r="100"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4210" z="6175" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2290" z="3060" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1890" z="8360" r="400"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8900" z="4230" r="100"/>
     </territory>
 </territory-type>
