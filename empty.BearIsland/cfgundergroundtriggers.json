@@ -2,25 +2,25 @@
     "Triggers":
 	[
 		{
-		   "Position": [ 9992, 12, 5884],    //world position of the trigger entity in the world
-		   "Orientation": [ 0, 0, 0 ],                            //rotation as Yaw, Pitch, Roll
-		   "Size": [ 15, 5.6, 10.8 ],                         //size in X, Y, Z coordinates
-		   "EyeAccommodation": 1,                             //how much eye accommodation the player has when inside this trigger
-		   "Breadcrumbs": [],                                 //breadcrumbs array
-		   "InterpolationSpeed": 1                                //how quickly we change the eye accommodation from previous value to target value in time
+		   "Position": [ 9992, 12, 5884],   
+		   "Orientation": [ 0, 0, 0 ],      
+		   "Size": [ 15, 5.6, 10.8 ],       
+		   "EyeAccommodation": 1,           
+		   "Breadcrumbs": [],               
+		   "InterpolationSpeed": 1          
 		},
 		{  
-		   "Position": [ 9978, 12, 5884 ],                  //world position of the trigger entity in the world
-		   "Orientation": [ 0, 0, 0 ],                                //rotation as Yaw, Pitch, Roll
-		   "Size": [ 15, 5.6, 10.8 ],                             //size in X, Y, Z coordinates
-		   "EyeAccommodation": 0,                                 //how much eye accommodation the player has when inside this trigger
-		   "Breadcrumbs":                                         //breadcrumbs array
+		   "Position": [ 9978, 12, 5884 ],                  
+		   "Orientation": [ 0, 0, 0 ],                      
+		   "Size": [ 15, 5.6, 10.8 ],                       
+		   "EyeAccommodation": 0,                           
+		   "Breadcrumbs":                                   
 			[
 				{
-					"Position": [ 9972, 12, 5884 ],        //world position of the breadcrumb in the world
-					"EyeAccommodation": 1,                                      //eye accommodation weight of the breadcrumb
-					"UseRaycast": 0,                                            //should we cast a ray from player to this breadcrumb (if set to 1, this breadcrumb will influence the accommodation only if the trace is successful)
-					"Radius": -1                                                //how far in meters is this breadcrumb able to influence player eye accommodation, when set to -1, a default value will be used
+					"Position": [ 9972, 12, 5884 ],        
+					"EyeAccommodation": 1,                 
+					"UseRaycast": 0,                       
+					"Radius": -1                           
 				},
 				{
 					"Position": [ 9950, 12, 5884 ],
@@ -31,12 +31,12 @@
 			]
 		},		
 		{  
-		   "Position": [ 9940, 12, 5884 ],              //world position of the trigger entity in the world
-		   "Orientation": [ 0, 0, 0 ],                            //rotation as Yaw, Pitch, Roll
-		   "Size": [ 190, 8.6, 20 ],                      //size in X, Y, Z coordinates
-		   "EyeAccommodation": 0,                             //how much eye accommodation the player has when inside this trigger
-		   "Breadcrumbs": [],                                 //breadcrumbs array
-		   "InterpolationSpeed": 1                                //how quickly we change the eye accommodation from previous value to target value in time
+		   "Position": [ 9940, 12, 5884 ],              
+		   "Orientation": [ 0, 0, 0 ],                  
+		   "Size": [ 190, 8.6, 20 ],                    
+		   "EyeAccommodation": 0,                       
+		   "Breadcrumbs": [],                           
+		   "InterpolationSpeed": 1                      
 		}
 	]
 }
