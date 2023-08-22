@@ -33,19 +33,14 @@
         <usage name="SeasonalEvent"/>
         <usage name="ContaminatedArea"/>
 	<usage name="Historical"/>	
-        <usage name="Underground"/>
-        <usage name="MilitaryCamp"/>
-        <usage name="HuntingCamp"/>
-        <usage name="GarageAndGas"/>
-        <usage name="Airfield"/>
-	<usage name="MarketAndBar" />
-	<usage name="LumberYard" />
-	<usage name="Church" />
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+        <value name="Unique"/>
     </valueflags>
 </lists>

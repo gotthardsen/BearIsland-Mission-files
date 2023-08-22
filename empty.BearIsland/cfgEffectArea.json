@@ -1,11 +1,11 @@
 {
     "Areas": [
-        { 	"AreaName": "Area01", 
+        { 	"AreaName": "BunkerGreen", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 6645, 5.06, 3191,28 ],
-				"Radius": 260,
+				"Pos": [ 10024, 22.5, 5886 ],
+				"Radius": 200,
 				"PosHeight": 21,
 				"NegHeight": 10,
 				"InnerRingCount": 2,
@@ -26,6 +26,6 @@
     ],
 
 	"SafePositions":[
-		[6326.221, 3030.478]
+		[8941, 5166]
 	]
 }
