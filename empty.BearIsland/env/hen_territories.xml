@@ -40,5 +40,7 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="4490" z="5896.67" r="50"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="3790" z="5810" r="50"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="1823.33" z="3742.22" r="150"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="2630" z="9200" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="2850" z="9200" r="50"/>
     </territory>
 </territory-type>
