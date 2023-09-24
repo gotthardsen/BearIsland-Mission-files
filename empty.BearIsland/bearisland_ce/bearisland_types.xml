@@ -14,6 +14,16 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
+    <type name="BearIsland_Vodka">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
+        <quantmin>20</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
     <type name="OutKeycardsGreen">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
