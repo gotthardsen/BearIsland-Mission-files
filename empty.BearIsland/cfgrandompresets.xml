@@ -730,4 +730,18 @@
 			<item name="Mag_STANAG_60Rnd" chance="0.05" />
 			<item name="Mag_AKM_Drum75Rnd" chance="0.05" />
 		</cargo>
+		
+		<!-- Finish Zombie ATTACHMENTS  -->
+		<attachments chance="1.00" name="hatsFIN">
+			<item name="RF_BoonieHat_m05" chance="0.50" />
+			<item name="RF_MilitaryBeret_M" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00" name="vestsFIN">
+			<item name="RF_UKAssVest_m05" chance="0.50" />
+			<item name="RF_FIN_platecarrier" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50" name="bagsFIN">
+			<item name="RF_AssaultBag_m05" chance="0.50" />
+			<item name="RF_AliceBag_m05" chance="0.50" />
+		</attachments>
 </randompresets>

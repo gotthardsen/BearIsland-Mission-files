@@ -2065,6 +2065,17 @@
 	<type name="ZmbM_Santa">
 		<attachments preset="SantaHat" />
 	</type>
+
+	<!-- Finnish Zombies -->
+	<type name="ZmbM_usSoldier_suomi">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="glassesArmy" />
+		<attachments preset="hatsFIN" />
+		<attachments preset="bagsFIN" />
+		<attachments preset="vestsFIN" />
+	</type>
+	
 	<!--END OF ZOMBIES  -->
 	<!--  WEAPONS  -->
 	<type name="MakarovIJ70">
@@ -2543,86 +2554,6 @@
 	<type name="Canteen">
 	</type>
 	
-<!-- FUTURE
-	<type name="M249">
-		<attachments chance="1.00">
-			<item name="M249_Hndgrd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="M249_Bipod" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="M249_RisHndgrd" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="Groza">
-		<attachments chance="1.00">
-			<item name="Att_LowerReceiver_Groza" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Att_Barrel_Groza_Short" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30">
-			<item name="Mag_Groza_20Rnd" chance="0.30" />
-		</attachments>
-	</type>
-	<type name="PM73Rak">
-		<attachments chance="0.08">
-			<item name="Mag_PM73_25Rnd" chance="0.50" />
-			<item name="Mag_PM73_15Rnd" chance="0.50" />
-		</attachments>
-	</type>
-	<type name="Scout">
-		<attachments chance="1.00">
-			<item name="M68Optic" chance="0.30" />
-			<item name="ACOGOptic" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="Mag_Scout_5Rnd" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="Trumpet">
-		<attachments chance="0.25">
-			<item name="HuntingOptic" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="FNX45_arrow">
-		<attachments chance="0.10">
-			<item name="Mag_FNX45_15Rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="PistolSuppressor" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="TLRLight" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="FNP45_MRDSOptic" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="LongHorn">
-		<attachments chance="0.20">
-			<item name="Crossbow_RedpointOptic" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="PistolOptic" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="P1">
-		<attachments chance="0.10">
-			<item name="PistolSuppressor" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="Mag_P1_8Rnd" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="Red9">
-		<attachments chance="0.10">
-			<item name="Red9Bttstck" chance="1.00" />
-		</attachments>
-	</type>
--->
-	<!--  END OF WEAPONS  -->
 	<type name="PersonalRadio">
 		<attachments chance="0.30">
 			<item name="Battery9V" chance="1.00" />
@@ -3601,7 +3532,6 @@
 			<item name="Truck_01_Door_2_1_Orange" chance="0.50" />
 		</attachments>
 	</type>
-<!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
 			<item name="V3SWheel" chance="0.60" />
@@ -3745,71 +3675,5 @@
 			<item name="V3SDoors_Driver_Grey" chance="0.50" />
 			<item name="V3SDoors_CoDriver_Grey" chance="0.50" />
 		</attachments>
-	</type>
--->
-	<type name="RK_Medic">
-        	<attachments chance="1.00">
-            		<item name="MedicalScrubsHat_Blue" chance="1.00" />
-       		</attachments>
-        	<attachments chance="1.00">
-            		<item name="MedicalScrubsPants_Blue" chance="1.00" />
-       		</attachments>
-        	<attachments chance="1.00">
-            		<item name="MedicalScrubsShirt_Blue" chance="1.00" />
-       		</attachments>
-        	<attachments chance="1.00">
-            		<item name="SurgicalGloves_White" chance="1.00" />
-       		</attachments>
-        	<attachments chance="1.00">
-            		<item name="JoggingShoes_Black" chance="1.00" />
-       		</attachments>
-        	<attachments chance="1.00">
-            		<item name="BandageDressing" chance="1.00" />
-       		</attachments>
-    	</type>
-	<type name="MonstersOfChiemsee_base">
-		<cargo preset="toolsMonster"/>
-		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
-	</type>
-	<type name="MonstersOfChiemsee_boomer">
-		<cargo preset="toolsMonster"/>
-		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
-	</type>
-	<type name="MonstersOfChiemsee_burer">
-		<cargo preset="toolsMonster"/>
-		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
-	</type>
-	<type name="MonstersOfChiemsee_controller">
-		<cargo preset="toolsMonster"/>
-		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
-	</type>
-	<type name="MonstersOfChiemsee_krovosos">
-		<cargo preset="toolsMonster"/>
-		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
-	</type>
-	<type name="MonstersOfChiemsee_poltergeist">
-		<cargo preset="toolsMonster"/>
-		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
-	</type>
-	<type name="MonstersOfChiemsee_psevdogigant">
-		<cargo preset="toolsMonster"/>
-		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
-	</type>
-	<type name="MonstersOfChiemsee_snork">
-		<cargo preset="toolsMonster"/>
-		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
-	</type>
-	<type name="MonstersOfChiemsee_tushkano">
-		<cargo preset="toolsMonster"/>
-		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
 	</type>
 </spawnabletypes>

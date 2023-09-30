@@ -4,6 +4,27 @@
 				<default name="group" lootmax="6" />
 				<default name="container" lootmax="4" />
 		</defaults>
+		<group name="land_out_town_house_01" lootmax="4">
+			<container name="lootweapons" lootmax="2">
+				<point pos="1.893691 -2.570134 2.703945" range="1" height="1" /> 
+				<point pos="-0.487368 -2.570134 -0.572782" range="1" height="1" /> 
+			</container>
+			<container name="lootfood" lootmax="2">
+				<point pos="-1.056202 -2.570134 1.158190" range="1" height="1" /> 
+				<point pos="1.387599 -2.570134 -0.728410" range="1" height="1" /> 
+			</container>
+		</group>
+		<group name="land_woodcabin" lootmax="5">
+			<container name="lootweapons" lootmax="2">
+				<point pos="16.471500 -0.706051 4.253560" range="1" height="1" /> 
+				<point pos="13.910700 -0.706051 -0.165980" range="1" height="1" /> 
+			</container>
+			<container name="lootfood" lootmax="3">
+				<point pos="13.515700 -0.706051 4.061770" range="1" height="1" /> 
+				<point pos="11.968814 -1.887378 -8.724387" range="1" height="1" /> 
+				<point pos="14.463300 -0.706051 1.953500" range="1" height="1" /> 
+			</container>
+		</group>
 		<group name="Land_ceap_house1" lootmax="7">
 				<container name="lootFloor">
 						<point pos="-3.788471 -2.052154 -0.635355" range="0.500000" height="1.500000" />
