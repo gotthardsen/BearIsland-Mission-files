@@ -49,10 +49,18 @@
     <event name="StaticBonfire">
 		<zone smin="3" smax="5" dmin="3" dmax="5" r="55" />
 		<pos x="2816" z="1131" />
+		<pos x="3431" z="2534" />
+		<pos x="6212" z="4337" />
+		<pos x="845" z="3578" />
+		<pos x="929" z="5568" />
 	</event>
     <event name="StaticContaminatedArea">
 		<zone smin="0" smax="0" dmin="5" dmax="8" r="75" />
-		<pos x="1959" z="1648" />
+		<pos x="4661" z="9017" />
+		<pos x="2197" z="8690" />
+		<pos x="9016" z="5198" />
+		<pos x="7965" z="4788" />
+		<pos x="956" z="5576" />
 	</event>
     <event name="Loot" />
     <event name="VehicleOffroadHatchback">
@@ -66,7 +74,18 @@
 		<pos x="2937" z="1220"/>	
     </event>
 	<event name="ItemPlanks">
+		<pos x="846" z="3581"/>
 		<pos x="2864" z="1093"/>
+		<pos x="4109" z="1826"/>
+		<pos x="3367" z="2566"/>
+		<pos x="3094" z="2349"/>
+		<pos x="5910" z="3402"/>
+		<pos x="6156" z="4270"/>
+		<pos x="4738" z="4311"/>
+		<pos x="4293" z="4959"/>
+		<pos x="4528" z="6702"/>
+		<pos x="2416" z="8956"/>
+		<pos x="2410" z="9968"/>
     </event>
     <event name="VehicleTruck01">
 		<pos x="2716" z="1294"/>

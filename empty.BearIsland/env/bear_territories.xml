@@ -15,5 +15,6 @@
         <zone name="Graze" smin="0" smax="0" dmin="1" dmax="2" x="7723.33" z="5696.67" r="100"/>
         <zone name="Graze" smin="0" smax="0" dmin="1" dmax="2" x="3703.33" z="2933.33" r="300"/>
         <zone name="Graze" smin="0" smax="0" dmin="1" dmax="2" x="3821.67" z="6036.67" r="150"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="5598.57" z="1168.57" r="100"/>
     </territory>
 </territory-type>
