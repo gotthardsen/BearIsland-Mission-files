@@ -76,6 +76,12 @@ class CustomMission: MissionServer
 
 		if ( itemTop )
 		{
+			player.RemoveAllItems();
+
+			itemEnt = player.GetInventory().CreateInInventory("TShirt_BearIsland");
+			itemEnt = player.GetInventory().CreateInInventory("ShortJeans_Brown");
+			itemEnt = player.GetInventory().CreateInInventory("AthleticShoes_Black");
+
 			itemEnt = itemTop.GetInventory().CreateInInventory("Rag");
 			if ( Class.CastTo(itemBs, itemEnt ) )
 				itemBs.SetQuantity(4);
