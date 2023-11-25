@@ -4,7 +4,7 @@
     <!--GUI props-->
     <selected row="25"/>
     <global>
-        <background file="../TerrainBuilder/Exports/ohunt.png" rgba="318767104"/>
+        <background file="mapexport.png" rgba="318767104"/>
         <layer size="4096"/>
         <world size="10240"/>
     </global>
