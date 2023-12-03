@@ -10,6 +10,6 @@
         <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="1890" z="4750" r="250"/>
         <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="7960" z="4660" r="400"/>
         <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="9200" z="3470" r="250"/>
-        <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="5660" z="9010" r="250"/>
+        <zone name="Graze" smin="0" smax="0" dmin="2" dmax="3" x="5646" z="9040" r="180"/>
     </territory>
 </territory-type>

@@ -40,5 +40,15 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="4490" z="5896.67" r="50"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="3790" z="5810" r="50"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="1823.33" z="3742.22" r="150"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="2630" z="9200" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="2850" z="9200" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="1010" z="8560" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="2213.33" z="8696.67" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="720" z="9310" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="3030" z="7870" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="3156.67" z="7533.33" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="3260" z="9453.33" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="2356.67" z="9960" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="1" dmax="2" x="2190" z="9890" r="50"/>
     </territory>
 </territory-type>
